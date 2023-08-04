@@ -1,0 +1,5 @@
+git push origin main
+git pull
+git remote -v
+git remote set-url --add [new_url]
+git remote set-url --push [new_url] [old_url]
